@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Akalu/akalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aliaksei
+---
 
-Here are some ideas to get you started:
+[![Generic badge](https://img.shields.io/badge/Name-Aliaksei%20Kaliutau-blue.svg)](https://github.com/akalu)
+[![Generic badge](https://img.shields.io/badge/Pronouns-he/him-blue.svg)](https://pronoun.is/he)
+[![Generic badge](https://img.shields.io/badge/Contact%20me-click%20here-blue.svg)](mailto:k5771k@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Computer Science always was a source of genuine inspiration for me. 
+
+It started off just an interest to Computational Physics at University's time and aspects of passion grew around the years of studying and efforts put into developing this curiosity.
+Now interest to Computer Science has become almost a part of my personality and currently studying is part of my daily routine, everyday life.
+
+I know half a dozen programming languages (among them all the major ones - Java, JavaScript and Python) and am very into all technical stuff, from functional programming languages till system design.
+
+Currently my interests include functional programming, large-scale distributed systems and Big Data.
+
