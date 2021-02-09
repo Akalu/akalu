@@ -7,7 +7,7 @@
 
 ---
 
-Computer Science always was a source of genuine inspiration for me. 
+I have an advanced degree in Physics/Informatics, and Computer Science always was a source of genuine inspiration for me. 
 
 It started off just an interest to Computational Physics during my University years and aspects of passion grew around the years of studying and efforts put into developing this curiosity.
 Now interest to Computer Science has become almost a part of my personality and currently studying is part of my daily routine, everyday life.
